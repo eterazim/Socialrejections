@@ -1,0 +1,16 @@
+$text: #fff;
+$link: #e34234;
+$link-hover: #ba160c;
+$background: #e373bc;
+
+canvas {
+  display: block;
+  vertical-align: bottom;
+}
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+	background: $background
+}
