@@ -1,5 +1,5 @@
 body {background-color: #FA89D8;}
-
+overflow: hidden;
 
 #particles-js {
   position: absolute;
