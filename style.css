@@ -7,3 +7,10 @@ overflow: hidden;
   height: 100%;
 	background: $background
 }
+#TEXT {
+  position: absolute;
+  left: 960px;
+  top: 100px;
+  text-align: center;
+  display: inline;
+}
